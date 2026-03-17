@@ -1,7 +1,7 @@
 # Análise-dados-financeiros
 
 
-Projeto de Análise de Dados — Setor Financeiro/Vendas (Dados Fictícios)
+Projeto de Análise de Dados — Setor Financeiro / Vendas(Dados Fictícios)
 
 # 📌Descrição do Projeto
 
